@@ -3,7 +3,7 @@ Customized actions for WHM cPanel functions
 
 ## CPanel Hooks for Custom Functionality
 
-This repository contains two custom CPanel hooks that provide additional functionality for managing email forwarding and enforcing cron job intervals.
+This repository contains two custom cPanel hooks that provide additional functionality for managing email forwarding and enforcing cron job intervals.
 
 ### Hooks Information
 
