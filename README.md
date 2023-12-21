@@ -68,3 +68,9 @@ Error logs for PHP can be found at:
 Toggle the debug mode using the "Debug Mode" option in the "Development" section of WHM's Tweak Settings:
 
 - WHM >> Home >> Server Configuration >> Tweak Settings
+
+### Reference
+
+- https://features.cpanel.net/topic/option-to-prevent-forwarders-to-free-email-accounts?_ga=2.23695548.721040204.1686896615-206909826.1686896615
+- https://gist.github.com/gmariani/70359dd09c702111979835e52f980366
+- https://api.docs.cpanel.net/guides/quickstart-development-guide/tutorial-create-a-standardized-hook/
