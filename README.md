@@ -9,7 +9,7 @@ This repository contains two custom cPanel hooks that provide additional functio
 
 ### File Paths:
 
-- **Email Forwarding Hook:** `/usr/local/src/custom/disable_email_forward_hook.php`
+- **Email Forwarding Restriction Hook:** `/usr/local/src/custom/disable_email_forward_hook.php`
 - **Cron Job Interval Enforcement Hook:** `/usr/local/src/custom/enforce_cron_interval_hook.php`
 
 ### Registered Hooks:
