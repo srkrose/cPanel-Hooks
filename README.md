@@ -22,13 +22,13 @@ To view a list of registered hooks, use the following command:
 
 ### Installation
 
-1. Navigate to the custom source directory:
+1. Create the custom source directory:
 
 ```
-cd /usr/local/src/custom
+mkdir /usr/local/src/custom
 ```
 
-2. Copy the desired hook file to the folder:
+2. Copy the desired hook file to the created directory:
 
 ```
 cp /path/to/[file].php /usr/local/src/custom/
@@ -63,7 +63,7 @@ Error logs for PHP can be found at:
 /usr/local/cpanel/logs/error_log
 ```
 
-### Debug Mode
+### Debug Mode (Optional)
 
 Toggle the debug mode using the "Debug Mode" option in the "Development" section of WHM's Tweak Settings:
 
